@@ -1,4 +1,4 @@
-## art de la vaillance
+## ART DE LA VAILLANCE
 
 Bonjour,
 
@@ -8,11 +8,13 @@ Thank you for visiting. You will find artistic pieces and repaired items/accesso
 
 I work as an independent freehand/digital artist, continuously studying, researching and progressing with interest in animating, sewing, art, and overall construction/development.
 
-Feel free to contact me at trevinobrigitte [!at] hotmail.com for any personal request within needed printed, digital, or freehand artwork for branding. ( This does include web developing as well. )
+Feel free to contact me at { trevinobrigitte@hotmail.com } for any personal request within needed printed, digital, or freehand artwork for branding.
 
 Your donations are gratefully appreciated as support contributing my curiosities to make the world an overall beautiful place.
 
---Merci de visiter. Vous trouverez inclure des pièces artistiques et également réparer des éléments/accessoires.
+------
+
+Merci de visiter. Vous trouverez inclure des pièces artistiques et également réparer des éléments/accessoires.
 
 Je travaille comme un artiste indépendant de freehand/digital, étudie en permanence, à rechercher et à progresser avec intérêt en animant, couture, art, and overall construction/development.
 
