@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## art de la vaillance
 
-You can use the [editor on GitHub](https://github.com/afluke/art-de-la-vaillance/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Bonjour,
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Pleasure to meet you. Je suis enchanté(e) de faire votre/ta conaissance.
 
-### Markdown
+Thank you for visiting. You will find artistic pieces and repaired items/accessories.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I work as an independent freehand/digital artist, continuously studying, researching and progressing with interest in animating, sewing, art, and overall construction/development.
 
-```markdown
-Syntax highlighted code block
+Feel free to contact me at trevinobrigitte [!at] hotmail.com for any personal request within needed printed, digital, or freehand artwork for branding. ( This does include web developing as well. )
 
-# Header 1
-## Header 2
-### Header 3
+Your donations are gratefully appreciated as support contributing my curiosities to make the world an overall beautiful place.
 
-- Bulleted
-- List
+--Merci de visiter. Vous trouverez inclure des pièces artistiques et également réparer des éléments/accessoires.
 
-1. Numbered
-2. List
+Je travaille comme un artiste indépendant de freehand/digital, étudie en permanence, à rechercher et à progresser avec intérêt en animant, couture, art, and overall construction/development.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/afluke/art-de-la-vaillance/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Vos dons sont appréciés avec gratitude comme soutien contribuant ma curiosité à faire du monde un endroit magnifique dans l’ensemble.
